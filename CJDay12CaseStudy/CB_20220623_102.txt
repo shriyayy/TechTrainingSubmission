@@ -1,0 +1,12 @@
+PNR             : CB_20220623_101
+Train no        : 1006
+Train Name      : Brindavan Express
+From            : Chennai
+To              : Bangalore
+Travel Date     : 23-06-2022
+
+Passengers:
+Name			Age			Gender			Fare
+Ram			37			M			750.0
+Shyam			10			M			600.0
+Total Price : 1350.0

@@ -1,0 +1,10 @@
+PNR             :BM_20210801_100
+Train no        :1003
+Train Name      :Udyan Express
+From            :Bangalore
+To              :Mumbai
+Travel Date     :01-08-2021
+Passengers:
+Name			Age			Gender			Fare
+Shriya			22			F			0
+Total Price : 0

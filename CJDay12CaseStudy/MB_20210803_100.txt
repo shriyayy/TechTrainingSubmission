@@ -1,0 +1,10 @@
+PNR             : MB_20210803_100
+Train no        : 1004
+Train Name      : Udyan Express
+From            : Mumbai
+To              : Bangalore
+Travel Date     : 03-08-2021
+Passengers:
+Name			Age			Gender			Fare
+Shriya			12			F				1125.0
+Total Price : 1125
